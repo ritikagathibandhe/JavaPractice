@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaArray4 {
+public class JavaArrayPosNeg {
     public static void main(String[] args) {
         int []x=new int[5];
         int count1=0;
